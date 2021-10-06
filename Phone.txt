@@ -1,0 +1,8 @@
+tape
+Motorola
+Nokia
+Samsung
+realme
+RedMi
+Apple
+
